@@ -1,0 +1,3 @@
+C:/Users/arthu/CLionProjects/conversor/cmake-build-debug/CMakeFiles/conversor.dir
+C:/Users/arthu/CLionProjects/conversor/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/arthu/CLionProjects/conversor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
